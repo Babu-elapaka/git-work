@@ -1,2 +1,0 @@
-username = babu
-pwd = babu@123
